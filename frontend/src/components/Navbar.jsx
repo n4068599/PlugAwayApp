@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-blue-600 text-white p-4 flex justify-between items-center">
+    <nav className="bg-violet-500 text-white p-4 flex justify-between items-center">
       <Link to="/" className="text-2xl font-bold">PlugAway</Link>
       <div>
         {user ? (
@@ -30,7 +30,7 @@ const Navbar = () => {
             <Link to="/login" className="mr-4">Login</Link>
             <Link
               to="/register"
-              className="bg-green-500 px-4 py-2 rounded hover:bg-green-700"
+              className="bg-purple-600 px-4 py-2 rounded hover:bg-purple-700"
             >
               Register
             </Link>
