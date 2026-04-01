@@ -19,6 +19,10 @@ Test script for CI/DI is also included
 CI - ./backend/test/teset.js
 DI - ./github/workflows/ci.yml
 
+Username:
+Server: ubuntu/Password!
+to login to the application, using existing login email1@mail.com password:password
+You will also be able to register new user.
 
 Running application
 ensure that node.js is installed.
