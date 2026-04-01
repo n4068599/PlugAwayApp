@@ -22,10 +22,10 @@ DI - ./github/workflows/ci.yml
 
 Running application
 ensure that node.js is installed.
-$sudo apt install git nodejs npm –y
+* **$sudo apt install git nodejs npm –y
 
 then run the application (under PlugAwayApp folder)
-$npm start
+* **$npm start
 
 
 * **Basic Version Control using GitHub**
